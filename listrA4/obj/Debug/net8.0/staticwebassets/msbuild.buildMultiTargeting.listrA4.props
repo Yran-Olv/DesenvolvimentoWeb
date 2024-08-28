@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\listrA4.props" />
+</Project>
